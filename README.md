@@ -14,7 +14,7 @@ A Data Science project predicting real estate prices and quantifying financial r
 
 ---
 
-## 🔬 Project Structure
+##  Project Structure
 
 | File | Description |
 |------|-------------|
