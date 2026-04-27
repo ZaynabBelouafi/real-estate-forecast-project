@@ -46,4 +46,4 @@ pip install -r requirements.txt
 
 ---
 
-**Zaynab Belouafi** · INSEA Rabat · [LinkedIn](https://linkedin.com/in/zaynabbelouafi) · [GitHub](https://github.com/ZaynabBelouafi)# real-estate-forecast-project
+**Zaynab Belouafi** · INSEA Rabat · [LinkedIn](https://linkedin.com/in/zaynabbelouafi) · [GitHub](https://github.com/ZaynabBelouafi)
